@@ -34,7 +34,7 @@ const useStyles = makeStyles((theme) => ({
   searchInput: {
     width: "75%",
     [theme.breakpoints.down("xs")]: {
-      width: "65%",
+      width: "50%",
     },
   },
   newButton: {
